@@ -1,10 +1,22 @@
-# training-ai-fde
+# AI Forward Deployed Engineer (FDE) Training
 
-AI FDE Training under K-Youth
+Submission repository for the 12-week hybrid AI FDE program under K-Youth.
+
+## Repository Structure
+
+One folder per week (week-00 through week-12). This README is the central index — each week links to its work folder below. Work is submitted by pushing to this repo and sharing the link. The repo is public. API keys and secrets are stored as environment variables, never committed.
+
+## Program Overview
+
+- **Phase 0 — Week 0:** Foundational setup and diagnostic assessment
+- **Phase 1 — Weeks 1–3:** Unlearning coursework habits; learning how code ships and survives
+- **Phase 2 — Weeks 4–7:** Building dependable systems with unreliable AI models
+- **Phase 3 — Weeks 8–10:** Advanced skills in scoping, integration, and stakeholder communication
+- **Phase 4 — Weeks 11–12:** Real-world capstone deployment with actual ownership and deadlines
 
 ## Weeks
 
-- [Week 0 — Setup](week-00/)
+- [Week 0 — Setup & Diagnostic](week-00/)
 - [Week 1](week-01/)
 - [Week 2](week-02/)
 - [Week 3](week-03/)
