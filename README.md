@@ -32,41 +32,41 @@ The course runs in four phases. Weeks unlock on a schedule as the program progre
 
 ### Phase 0 — Setup
 
-| Week | Lesson | My work |
-| --- | --- | --- |
-| **Week 0 — Setup and Diagnostic** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/0) | [week-00/](week-00/) |
+| Week | Lesson | My work | Submission |
+| --- | --- | --- | --- |
+| **Week 0 — Setup and Diagnostic** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/0) | [week-00/](week-00/) | [PR #1](https://github.com/DhanSofiya/training-ai-fde/pull/1) |
 
 ### Phase 1 — Production Engineering Foundations
 
-| Week | Lesson | My work |
-| --- | --- | --- |
-| **Week 1 — From Coursework to Production** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/1) | [week-01/](week-01/) |
-| **Week 2 — Data Fluency** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/2) | [week-02/](week-02/) |
-| **Week 3 — Deploy, Observe, Recover** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/3) | [week-03/](week-03/) |
+| Week | Lesson | My work | Submission |
+| --- | --- | --- | --- |
+| **Week 1 — From Coursework to Production** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/1) | [week-01/](week-01/) | 🌱 |
+| **Week 2 — Data Fluency** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/2) | [week-02/](week-02/) | 🌱 |
+| **Week 3 — Deploy, Observe, Recover** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/3) | [week-03/](week-03/) | 🌱 |
 
 ### Phase 2 — AI Application Engineering
 
-| Week | Lesson | My work |
-| --- | --- | --- |
-| **Week 4 — LLM Application Patterns** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/4) | [week-04/](week-04/) |
-| **Week 5 — Retrieval and Grounding (RAG)** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/5) | [week-05/](week-05/) |
-| **Week 6 — MCP and Tool Calling** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/6) | [week-06/](week-06/) |
-| **Week 7 — Automation with N8N** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/7) | [week-07/](week-07/) |
+| Week | Lesson | My work | Submission |
+| --- | --- | --- | --- |
+| **Week 4 — LLM Application Patterns** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/4) | [week-04/](week-04/) | 🌱 |
+| **Week 5 — Retrieval and Grounding (RAG)** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/5) | [week-05/](week-05/) | 🌱 |
+| **Week 6 — MCP and Tool Calling** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/6) | [week-06/](week-06/) | 🌱 |
+| **Week 7 — Automation with N8N** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/7) | [week-07/](week-07/) | 🌱 |
 
 ### Phase 3 — The FDE Craft
 
-| Week | Lesson | My work |
-| --- | --- | --- |
-| **Week 8 — Scoping Ambiguity** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/8) | [week-08/](week-08/) |
-| **Week 9 — Integration and the Messy Real World** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/9) | [week-09/](week-09/) |
-| **Week 10 — Customer-Facing Communication and Capstone Scoping** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/10) | [week-10/](week-10/) |
+| Week | Lesson | My work | Submission |
+| --- | --- | --- | --- |
+| **Week 8 — Scoping Ambiguity** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/8) | [week-08/](week-08/) | 🌱 |
+| **Week 9 — Integration and the Messy Real World** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/9) | [week-09/](week-09/) | 🌱 |
+| **Week 10 — Customer-Facing Communication and Capstone Scoping** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/10) | [week-10/](week-10/) | 🌱 |
 
 ### Phase 4 — Capstone Embedded Deployment
 
-| Week | Lesson | My work |
-| --- | --- | --- |
-| **Week 11 — Build in Place** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/11) | [week-11/](week-11/) |
-| **Week 12 — Ship and Defend** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/12) | [week-12/](week-12/) |
+| Week | Lesson | My work | Submission |
+| --- | --- | --- | --- |
+| **Week 11 — Build in Place** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/11) | [week-11/](week-11/) | 🌱 |
+| **Week 12 — Ship and Defend** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/12) | [week-12/](week-12/) | 🌱 |
 
 ---
 
