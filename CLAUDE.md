@@ -27,3 +27,4 @@ This repository contains weekly coursework for the AI Fundamentals for Developer
 2. Always number checklists and step-by-step instructions.
 3. Always ask before creating new files in this repo.
 4. Always run and verify code before committing.
+5. Always ask for clarification before starting complex or ambiguous tasks — do not assume.
