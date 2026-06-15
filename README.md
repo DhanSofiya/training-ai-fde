@@ -40,7 +40,7 @@ The course runs in four phases. Weeks unlock on a schedule as the program progre
 
 | Week | Lesson | My work | Submission |
 | --- | --- | --- | --- |
-| **Week 1 — From Coursework to Production** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/1) | [week-01/](week-01/) | 🌱 |
+| **Week 1 — From Coursework to Production** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/1) | [week-01/](week-01/) | [PR #1](https://github.com/DhanSofiya/training-ai-fde-anki/pull/1) · [PR #2](https://github.com/DhanSofiya/training-ai-fde-anki/pull/2) · [NOTES](https://github.com/DhanSofiya/training-ai-fde-anki/blob/main/NOTES.md) |
 | **Week 2 — Data Fluency** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/2) | [week-02/](week-02/) | 🌱 |
 | **Week 3 — Deploy, Observe, Recover** | [Lesson ↗](https://akmalakhpah.github.io/training-ai-fde/index.html#/week/3) | [week-03/](week-03/) | 🌱 |
 
